@@ -29,7 +29,7 @@ func main() {
 
 	// create some buffers for our data
 	var continents bytes.Buffer
-    var countries bytes.Buffer
+        var countries bytes.Buffer
 	var cities bytes.Buffer
 	var subdivisions bytes.Buffer
 
