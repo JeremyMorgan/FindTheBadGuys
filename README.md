@@ -20,10 +20,10 @@ Run **iplookup**
 
 It will store the following files:
 
-continents.txt - a list of continents
-countries.txt - a list of countries
-cities.txt - a list of cities
-subdivisions.txt - a list of subdivisions of city
+- **continents.txt** - a list of continents
+- **countries.txt** - a list of countries
+- **cities.txt** - a list of cities
+- **subdivisions.txt** - a list of subdivisions of city
 
 
 They are not checked for duplicates, in case you want to do counts on each. 
